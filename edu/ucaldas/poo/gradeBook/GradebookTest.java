@@ -1,4 +1,4 @@
-package edu.caldas.poo.gradeBook;
+package edu.ucaldas.poo.edu.ucaldas.poo.gradeBook;
 
 public class GradeBookTest {
 	public static void main(String[] args) {
